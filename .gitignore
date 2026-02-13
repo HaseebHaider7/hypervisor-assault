@@ -12,3 +12,7 @@ Thumbs.db
 
 # Scan output
 hypervisor_scan_*.txt
+
+# Per-target temporary artifacts (created by hypervisor-assault.sh)
+*_headers.txt
+*_cert.txt
