@@ -9,3 +9,6 @@ targets.txt
 Thumbs.db
 .vscode/
 .idea/
+
+# Scan output
+hypervisor_scan_*.txt
