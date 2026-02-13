@@ -1,0 +1,11 @@
+# Outputs
+hypervisor_assault_*/
+
+# Local targets
+targets.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
